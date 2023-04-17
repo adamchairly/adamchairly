@@ -1,6 +1,9 @@
 
 <!--START_SECTION:waka-->
 
+
+
+### Coding Stats
 ```text
 Java             1 hr 48 mins    ████████████████████░░░░░   80.49 %
 Markdown         19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
@@ -11,7 +14,3 @@ Other            0 secs          ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-### Coding Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamchairly&layout=compact&theme=dark)]
