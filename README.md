@@ -2,7 +2,7 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Java             8 mins          █████████████████████████   99.88 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 PowerShell       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
